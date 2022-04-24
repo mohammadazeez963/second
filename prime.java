@@ -7,9 +7,9 @@ public class prime {
 
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner ac = new Scanner(System.in);
         
-       String n = sc.nextLine();
+       String n = ac.nextLine();
        System.out.println("The number is "+n);
     
     
